@@ -1,4 +1,4 @@
-# Queensland-road-crash-analysis
+# Queensland-road-accident-analysis
 
 Project details will be updated soon. Apologies for the inconvenience.
 
